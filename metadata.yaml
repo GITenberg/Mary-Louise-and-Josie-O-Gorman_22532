@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25389
 description: Emma Speed Sampson continued the Mary Louise series under Edith Van Dyne's
   name when the original author, L. Frank Baum, died.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22532#Mary-Louise-and-Josie-O-Gorman
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2007-09-07'
 gutenberg_type: Text
